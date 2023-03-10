@@ -45,6 +45,7 @@ public class task3 {
                 System.err.println("Введен неверный тип переменной");
                 in.close();
             }
+
         }
     }
 }
